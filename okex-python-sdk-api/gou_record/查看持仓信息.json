@@ -1,0 +1,43 @@
+{
+    "code": "0",
+    "data": [
+        {
+            "adl": "1",
+            "availPos": "9.994",
+            "avgPx": "0.683295",
+            "cTime": "1620190320371",
+            "ccy": "USDT",
+            "deltaBS": "",
+            "deltaPA": "",
+            "gammaBS": "",
+            "gammaPA": "",
+            "imr": "1.36659",
+            "instId": "DOGE-USDT",
+            "instType": "MARGIN",
+            "interest": "0",
+            "last": "0.68252",
+            "lever": "5",
+            "liab": "-6.83295",
+            "liabCcy": "USDT",
+            "liqPx": "0",
+            "margin": "",
+            "mgnMode": "cross",
+            "mgnRatio": "95.81717552701399",
+            "mmr": "0.546636",
+            "optVal": "",
+            "pos": "9.994",
+            "posCcy": "DOGE",
+            "posId": "305169696404426756",
+            "posSide": "net",
+            "thetaBS": "",
+            "thetaPA": "",
+            "tradeId": "36119604",
+            "uTime": "1620190320371",
+            "upl": "-0.0134741420000006",
+            "uplRatio": "-0.0098596813967617",
+            "vegaBS": "",
+            "vegaPA": ""
+        }
+    ],
+    "msg": ""
+}
